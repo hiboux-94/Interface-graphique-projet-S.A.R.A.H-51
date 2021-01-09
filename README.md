@@ -18,9 +18,13 @@ Chacune des interface graphique contient :
 Voir manipulations sous rainmeter plus bas. (optionnel) Si vous désirez aller plus loin et pouvoir créer une animation par vous même, téléchargez et installer une version de CrazyTalk. Une version 7, Standard edition, à 15 euros est suffisante. L'animation fournie est composée de 17 images :
 
 00.png => Image de départ => Bouche fermée
+
 01.png => Bouche légèrement ouverte
+
 02.png => Bouche un peu plus ouverte
+
 Etc... Etc...
+
 16.png => dernière image de l'animation
 
 Les différentes images s'affichent en fonction du gain de sortie des haut parleur, de ce fait, selon l'ordinateur et la carte son utilisée, certaines images ne seront pas forcément affichés et l'animation risque d'être sacadée ou rendre moins naturel d'un ordinateur à un autre. ou encore un clignement des yeux trop fréquent et rapide (image des yeux fermés s'affichant trop souvent) Pour tenter de remédier au problème, vous pouvez changer l'ordre de certaines images en les renomant pour les changer de place 01.png à la place de 02.png ou 03.png etc ... Faire des tests jusqu'à obtenir le meilleurs résultat possible sur votre propre ordinateur.
